@@ -1,4 +1,7 @@
- 📊 Features
+Laptop-Manufacturing-Production-Efficiency (DASHBOARD)
+ 
+
+📊 Features
 - **Model-Specific Price Analysis (2020–2024):** Price fluctuations for different models.
 - **Top 10 Models Sales (India – 2023):** Identify leading laptop models.
 - **Category Analysis:** Gaming vs. High-Performance laptops (India – 2023 & 2024).
